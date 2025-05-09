@@ -6,3 +6,16 @@
 # Caso deseja o LOGIN e SENHA, são bem básicas
 Usuário: **Aluno** <br>
 Senha: **2025**
+# Requesitos
+devera ter no próprio sistema computacional, o "Python" utilizado do Próprio VsCode, caso nao queira do VsCode abaixe pelo **TERMINAL**
+<br> 
+# Comando terminal Download Python
+**winget install -e --id Python.Python.3** No Windows <br>
+**sudo apt install python3** No Linux
+<br> <br> Caso você seja MacOS <br>
+Instale o Homebrew (se ainda não estiver instalado): <br>
+**/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" <br>
+<br> e Instale o Python:
+<br> **brew install python**
+# Como saber a versão do Python
+Apenas utilize **python3 --version**
