@@ -4,7 +4,7 @@
             Este aplicativo foi desenvolvido para contornar essa limitação,
             Simulando a digitação humana de forma automática.
 # Caso deseja o LOGIN e SENHA, são bem básicas
-Usuário: **Aluno** <br>
+Usuário: **aluno** <br>
 Senha: **2025**
 # Requesitos
 devera ter no próprio sistema computacional, o "Python" utilizado do Próprio VsCode, caso nao queira do VsCode abaixe pelo **TERMINAL**
