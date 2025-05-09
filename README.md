@@ -7,7 +7,7 @@
 Usuário: **aluno** <br>
 Senha: **2025**
 # Requisitos
-devera ter no próprio sistema computacional, o "Python" utilizado do Próprio VsCode, caso nao queira do VsCode abaixe pelo **TERMINAL**
+devera ter no próprio sistema computacional, o "Python" utilizado do Próprio VsCode, caso não queira do VsCode abaixe pelo **TERMINAL**
 <br> 
 # Comando terminal Download Python
 **winget install -e --id Python.Python.3** No Windows <br>
