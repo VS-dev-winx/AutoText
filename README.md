@@ -6,7 +6,7 @@
 # Caso deseja o LOGIN e SENHA, são bem básicas
 Usuário: **aluno** <br>
 Senha: **2025**
-# Requesitos
+# Requisitos
 devera ter no próprio sistema computacional, o "Python" utilizado do Próprio VsCode, caso nao queira do VsCode abaixe pelo **TERMINAL**
 <br> 
 # Comando terminal Download Python
