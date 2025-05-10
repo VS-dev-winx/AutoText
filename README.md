@@ -1,3 +1,5 @@
+<h6>App criado para auxiliar Alunos :)</h6>
+
 # Produção de Texto automático.
   Por que usar este app
             Existem sites ou aplicativos que bloqueiam o uso de CTRL+C e CTRL+V,
