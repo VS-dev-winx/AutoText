@@ -1,5 +1,5 @@
-<h6>App criado para auxiliar Alunos :)</h6>
-
+<h6>App criado para auxiliar Alunos :)</h6> <br>
+<h5>Ainda está apenas funcionando para W10/11</h5>
 # Produção de Texto automático.
   Por que usar este app
             Existem sites ou aplicativos que bloqueiam o uso de CTRL+C e CTRL+V,
