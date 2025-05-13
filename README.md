@@ -10,7 +10,7 @@ Usuário: **aluno** <br>
 Senha: **2025**
 # Requisitos
 devera ter no próprio sistema computacional, o "Python" utilizado do Próprio VsCode, caso não queira do VsCode abaixe pelo **TERMINAL**
-<br> 
+<br> Caso você tenha instalado o Python e mesmo assim não funcionou, seu computador não está aceitando a extensão padrão dele "tkinder".
 # Comando terminal Download Python
 **winget install -e --id Python.Python.3** No Windows <br>
 **sudo apt install python3** No Linux
